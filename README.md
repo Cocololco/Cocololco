@@ -1,1 +1,1 @@
-PHP, Laravel, MYSQL, HTML/CSS, Python
+PHP, Laravel, MYSQL, HTML/CSS, Python, React
